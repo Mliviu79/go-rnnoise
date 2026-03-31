@@ -1,15 +1,15 @@
 # go-rnnoise
 
-<a href="https://pkg.go.dev/github.com/MarcosTypeAP/go-rnnoise"><img src="https://pkg.go.dev/badge/github.com/MarcosTypeAP/go-rnnoise.svg" alt="Go Reference"></a>
-
 A Go wrapper around [RNNoise](https://github.com/xiph/rnnoise), a recurrent neural network based noise suppression library.
+
+Forked from [MarcosTypeAP/go-rnnoise](https://github.com/MarcosTypeAP/go-rnnoise) (MIT).
 
 See [RNNoise license](RNNOISE_LICENSE).
 
 ## Installation
 
 ```sh
-go get github.com/MarcosTypeAP/go-rnnoise
+go get github.com/Mliviu79/go-rnnoise
 ```
 
 ## Audio format
